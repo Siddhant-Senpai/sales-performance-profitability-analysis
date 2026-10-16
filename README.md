@@ -38,7 +38,7 @@ The goal of this project is to turn raw sales data into meaningful insights thro
 
 ### Power BI — Sales Overview
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](screenshots/Sales%20Overview.png)
 
 ### Power BI — Profitability Analysis
 
